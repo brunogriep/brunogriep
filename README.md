@@ -1,7 +1,7 @@
-## Hi there 👋 I'm  I am [Bruno](https://brunogriep.github.io/) (a.k.a "bgf") 
+## Hi there 👋 I'm [Bruno](https://brunogriep.github.io/) (a.k.a "bgf") 
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 
-I' currently working as an Advanced Consultant Engineer (Embedded Systems Engineer) for [Capgemini Engineering - Porto](https://www.capgemini.com/pt-en/portugal-offices/). I’m a Electronics Engineer nearing the completion of my master’s degree by the end of September in the fields of Signal Processing and Deep Learning, both Bachelor and Master course from [UFSC](https://en.ufsc.br/). Furthermore, I’ve also acquired a Technical degree in Electronics. I´d been working with embedded systems from the begging of the Electronics Engineering course, being able to work with Bare-metal programming, Embedded Linux, RTOS, Digital Signal Processing, Deep Learning, etc...
+I'm currently working as an Advanced Consultant Engineer (Embedded Systems Engineer) for [Capgemini Engineering - Porto](https://www.capgemini.com/pt-en/portugal-offices/). I’ve a Bachelor Degree in Electronics Engineering and nearing the completion of my master’s degree by the end of September in the fields of Signal Processing and Deep Learning, both Bachelor and Master courses from [UFSC](https://en.ufsc.br/). Furthermore, I’ve acquired a Technical degree in Electronics during highschool. I´d been working with embedded systems from the begging of the Electronics Engineering course, being able to work with Bare-metal programming, Embedded Linux, RTOS, Digital Signal Processing, Deep Learning, etc...
 
 ⚡ Fun fact: *bgf* is the abreviation of my full name, and is also my nickname in every multiplayer game that I've ever played.
 
