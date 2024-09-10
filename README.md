@@ -49,7 +49,7 @@ I'm an Embedded Systems Engineer / C++ Software Engineer with a [Master Degree](
   src="https://img.shields.io/badge/docker-%2312100E.svg?&style=for-the-badge&logo=docker&logoColor=2496ED" /></a>
 <a 
   target="_blank"><img alt="gRPC" 
-  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgrpc.io%2F&psig=AOvVaw3pSnMFRxmjZ0okUjxJ_5NR&ust=1726054568981000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiZ4r2kuIgDFQAAAAAdAAAAABAE" /></a>  
+  src="https://img.shields.io/badge/gRPC-%2312100E.svg?&style=for-the-badge&logo=gRPC&logoColor=00979D" /></a>
 <a 
   target="_blank"><img alt="VS Code" 
   src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" /></a>
