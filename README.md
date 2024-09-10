@@ -1,15 +1,15 @@
 ## Hi there 👋 I'm [Bruno](https://brunogriep.github.io/) (a.k.a "bgf") 
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 
-I'm currently working as an Advanced Consultant Engineer (Embedded Systems Engineer) for [Capgemini Engineering - Porto](https://www.capgemini.com/pt-en/portugal-offices/). I’ve a Bachelor Degree in Electronics Engineering and nearing the completion of my master’s degree by the end of September in the fields of Signal Processing and Deep Learning, both Bachelor and Master courses from [UFSC](https://en.ufsc.br/). Furthermore, I’ve acquired a Technical degree in Electronics during highschool. I´d been working with embedded systems from the begging of the Electronics Engineering course, being able to work with Bare-metal programming, Embedded Linux, RTOS, Digital Signal Processing, Deep Learning, etc...
+I'm an Embedded Systems Engineer / C++ Software Engineer with a [Master Degree](https://repositorio.ufsc.br/handle/123456789/244437) in the fields of Signal Processing and Deep Learning, additionaly I have a Bachelor Degree in [Electronics Engineering](https://repositorio.ufsc.br/handle/123456789/197681), both Bachelor and Master courses concluded at [UFSC](https://en.ufsc.br/). Furthermore, I’ve acquired a Technical degree in Electronics during highschool. I´d been working with embedded systems from the begging of the Electronics Engineering course, being able to work with Bare-metal programming, Embedded Linux, RTOS, Digital Signal Processing, Deep Learning, etc...
 
 ⚡ Fun fact: *bgf* is the abreviation of my full name, and is also my nickname in every multiplayer game that I've ever played.
 
 ## 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔭 I’m currently researching:
+- 🔭 I’m currently researching or studying:
   - CI/CD Pipelines to improve code quality
   - Modern C++ applied in Embedded Systems (linux/rtos/bare-metal)
-  - DSP for audio FX applications
+  - Audio effects for music industry using Digital Signal Processing (guitar, bass, voice, synths, etc...)
 
 ## Social Media
 <p align="left"><a 
@@ -21,12 +21,6 @@ I'm currently working as an Advanced Consultant Engineer (Embedded Systems Engin
 <a 
   href="https://www.linkedin.com/in/brunogriep" target="_blank"><img alt="LinkedIn" 
   src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
-<a 
-  href="https://www.twitch.tv/bgf_fps" target="_blank"><img alt="Twitch" 
-  src="https://img.shields.io/badge/Twitch-%2312100E.svg?&style=for-the-badge&logo=Twitch&logoColor=#6441a5" /></a>
-<a 
-  href="https://www.instagram.com/brunogriep" target="_blank"><img alt="Instagram" 
-  src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=#E4405F" /></a>
 <a 
   href="https://open.spotify.com/user/12173776884?si=b4ec10533e7e42a4" target="_blank"><img alt="Spotify" 
   src="https://img.shields.io/badge/Spotify-%2312100E.svg?&style=for-the-badge&logo=spotify&logoColor=#1DB954" /></a>
@@ -53,6 +47,9 @@ I'm currently working as an Advanced Consultant Engineer (Embedded Systems Engin
 <a 
   target="_blank"><img alt="Docker" 
   src="https://img.shields.io/badge/docker-%2312100E.svg?&style=for-the-badge&logo=docker&logoColor=2496ED" /></a>
+<a 
+  target="_blank"><img alt="gRPC" 
+  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgrpc.io%2F&psig=AOvVaw3pSnMFRxmjZ0okUjxJ_5NR&ust=1726054568981000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiZ4r2kuIgDFQAAAAAdAAAAABAE" /></a>  
 <a 
   target="_blank"><img alt="VS Code" 
   src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" /></a>
